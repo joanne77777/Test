@@ -9,3 +9,7 @@ with tf.device('/GPU:0'):
     b = tf.constant([[1.0, 1.0], [0.0, 1.0]])
     c = tf.matmul(a, b)
     print("Résultat du produit matriciel :", c)
+
+
+
+
