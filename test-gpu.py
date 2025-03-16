@@ -1,9 +1,5 @@
 import tensorflow as tf
 import time
-
-
-
-
 from tensorflow.keras import layers, models
 
 # Test simple sur GPU
